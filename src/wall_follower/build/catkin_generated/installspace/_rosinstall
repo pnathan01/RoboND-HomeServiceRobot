@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robond/catkin_ws_hstrial/src/wall_follower/install/setup.sh
